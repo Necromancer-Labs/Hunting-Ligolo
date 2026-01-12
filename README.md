@@ -1,5 +1,14 @@
-
 ![hunt](./hunting-ligolo.png)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Necromancer_Labs-Research-8A2BE2?style=for-the-badge&labelColor=374151" alt="Necromancer Labs">
+  <img src="https://img.shields.io/badge/Focus-Threat_Hunting-8A2BE2?style=for-the-badge&labelColor=374151" alt="Focus">
+  <img src="https://img.shields.io/badge/Status-Published-22c55e?style=for-the-badge&labelColor=374151" alt="Status">
+  <br>
+  <a href="https://github.com/Necromancer-Labs"><img src="https://img.shields.io/badge/GitHub-Necromancer--Labs-8A2BE2?style=for-the-badge&labelColor=374151&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://necromancerlabs.com/research/papers/2025/gost-in-the-protocol/"><img src="https://img.shields.io/badge/Paper-Read-0ea5e9?style=for-the-badge&labelColor=374151" alt="Paper"></a>
+</p>
+
 # Hunting Ligolo Proxies
 
 ## Overview
